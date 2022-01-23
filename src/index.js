@@ -17,7 +17,6 @@ function QuoteText(props) {
     return (
         <div id='text' style={styles}>
             <i className="fas fa-quote-left" style={style2}></i>{props.quote}
-            {/* <div>{props.quote}</div> */}
         </div>
     );
 }

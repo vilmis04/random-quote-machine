@@ -65,7 +65,8 @@ function NewQuoteButton(props) {
         padding: "0.5rem 1rem",
         borderRadius: 3,
         border: "none",
-        userSelect: "none"
+        userSelect: "none",
+        cursor: "pointer"
     }
     return (
         <button onClick={props.generateQuote} id="new-quote" style={styles}>

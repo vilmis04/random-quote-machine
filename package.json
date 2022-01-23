@@ -2,6 +2,7 @@
   "name": "random-quote-machine",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://vilmis04.github.io/random-quote-machine/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",

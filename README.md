@@ -1,18 +1,15 @@
 # Random Quote Machine
 
-Random quote machine that fetches quote list from a server and display a random quote at a click of a button (also changing the background).
+Random quote machine that fetches quote list from a server and displays a random quote at a click of a button (also changing the background).
 This is my first project with React JS for freeCodeCamp's Frontend development libraries certification.
 
-## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
-
 ## Overview
+
+### The features
+
+- Background and font color change on button click
+- Quote list fetched from a server
+- New quote generated and displayed on a click of the button
 
 ### Screenshot
 
